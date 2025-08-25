@@ -72,12 +72,12 @@ jupyter notebook
 ```
 5. Open and run the project
 
--Navigate to Final Proj.ipynb (or your notebook file).
--Run all cells (Kernel > Restart & Run All) to:
--Preprocess datasets
--Train models (Logistic Regression, Random Forest)
--Evaluate results with metrics (Accuracy, Precision, Recall, F1-score, AUC)
--Visualize performance (Confusion Matrix, ROC curves, Attention heatmaps)
+- Navigate to Final Proj.ipynb (or your notebook file).
+- Run all cells (Kernel > Restart & Run All) to:
+  - Preprocess datasets
+  - Train models (Logistic Regression, Random Forest)
+  - Evaluate results with metrics (Accuracy, Precision, Recall, F1-score, AUC)
+  - Visualize performance (Confusion Matrix, ROC curves, Attention heatmaps)
 
 
 ## Usage (Colab)  
